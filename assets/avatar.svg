@@ -11,9 +11,9 @@
       <circle cx="130" cy="130" r="115"/>
     </clipPath>
     <radialGradient id="ring-gradient" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#2CA5E0" stop-opacity="0.8"/>
-      <stop offset="50%" stop-color="#00ff88" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#2CA5E0" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#C084FC" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#6D28D9" stop-opacity="0.3"/>
     </radialGradient>
   </defs>
 
@@ -24,7 +24,7 @@
   </circle>
 
   <!-- Second glow ring -->
-  <circle cx="130" cy="130" r="120" fill="none" stroke="#2CA5E0" stroke-width="1.5" opacity="0.4">
+  <circle cx="130" cy="130" r="120" fill="none" stroke="#8B5CF6" stroke-width="1.5" opacity="0.4">
     <animate attributeName="r" values="118;125;118" dur="4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite"/>
   </circle>
