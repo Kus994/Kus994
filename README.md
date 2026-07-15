@@ -1,7 +1,5 @@
 # Привет! Я — Kus
 
-<img src="https://raw.githubusercontent.com/Kus994/Kus994/master/assets/avatar.svg" width="150"/>
-
 [![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## Обо мне
