@@ -1,4 +1,4 @@
-<h1 align="center">рџ‘‹ Hello! I'm Kus </h1>
+<h1 align="center">СЂСџвЂвЂ№ Hello! I'm Kus </h1>
 
 <p align="center">
  <img width="600" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
@@ -7,17 +7,18 @@
 ## About me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kus994)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/JDHRaya993)
 
 I'm a developer passionate about technology and learning.
 
 ---
 
-## рџ™Џ About this profile
+## СЂСџв„ўРЏ About this profile
 
 This is my GitHub profile. Here you can find my projects and contributions.
 
 <details align="left">
-  <summary><h2><b>рџ“љ My stack</b></h2></summary>
+  <summary><h2><b>СЂСџвЂњС™ My stack</b></h2></summary>
   <p>
     <h3>Langs</h3>
     <img src="https://skillicons.dev/icons?i=python,js,html,css&perline=7" />
@@ -31,7 +32,7 @@ This is my GitHub profile. Here you can find my projects and contributions.
 
 
 <details align="left">
-  <summary><h2><b>в­ђGitHub stats</b></h2></summary>
+  <summary><h2><b>РІВ­С’GitHub stats</b></h2></summary>
   <p>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kus994&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
    <br>
